@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Minimize video descriptions
 // @namespace    https://github.com/N0amLevi/Minimize-YouTube-video-description
-// @version      1.0.0
+// @version      1.0.0-alpha
 // @description  Minimize the description of youtube videos automaticlly
 // @author       Noam Levi
 // @match        http://*/*
