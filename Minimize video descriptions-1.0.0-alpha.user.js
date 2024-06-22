@@ -4,6 +4,7 @@
 // @version      1.0.0-alpha
 // @description  Minimize the description of youtube videos automaticlly
 // @author       Noam Levi
+// @license         GNU GPLv3
 // @match        http://*/*
 // @grant        none
 
